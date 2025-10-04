@@ -1,0 +1,22 @@
+Brittany Russell Data Breach Risk Capstone 2025
+     
+
+Malware, short for malicious software, refers to any intrusive software developed by cybercriminals (often called hackers) to steal data and damage or destroy computers and computer systems. Examples of common malware include viruses, worms, Trojan viruses, spyware, adware, and ransomware.
+
+Phishing is a cybercrime in which a target or targets are contacted by email, telephone or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data such as personally identifiable information, banking and credit card details, and passwords. The information is then used to access important accounts and can result in identity theft and financial loss.
+
+Ransomware is a type of malware that encrypts the victim's personal data until a ransom is paid.
+
+Digital skimmers inject a piece of malicious code-known as a skimmer-into
+the third-party scripts on your website that skims credit card or other payment
+data when it is entered into payment forms.
+
+CyberattackType
+Ransomware         497
+Malware            224
+Other              136
+Phishing           100
+Unclear/unknown     85
+Skimmers            15
+
+I am going to clean the CyberattackType Column and convert all unclear/unknown and other to one category called unknown threats.
