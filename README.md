@@ -44,8 +44,4 @@ In this project I utilized Python for data analysis, cleaning, and applied logic
 
 
 
-Cyber Attacks Capstone Project 2025 by Brittany Russell, MBA: Cybersecurity Management
-
-
-
-
+<a href="Cyber Attacks Capstone Project 2025" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGYxN2MzOTktYTVlMy00YjJjLWE5YjEtOTY5ODg0ZWU1MGExIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" >Cyber-Attacks-Capstone-Project-2025-by-Brittany-Russell<a/>
