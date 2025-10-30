@@ -42,7 +42,7 @@ In this project I utilized Python for data analysis, cleaning, and applied logic
 
 **Power BI Dashboard Link**
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGYxN2MzOTktYTVlMy00YjJjLWE5YjEtOTY5ODg0ZWU1MGExIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=206f986569875c6cdb0e">Cyber Attacks Capstone Project 2025 ~ by Brittany Russell , MBA: Cybersecurity Management<a/>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZGYxN2MzOTktYTVlMy00YjJjLWE5YjEtOTY5ODg0ZWU1MGExIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9">Cyber Attacks Capstone Project 2025 ~ by Brittany Russell , MBA: Cybersecurity Management<a/>
 
 Thank you for your support.
